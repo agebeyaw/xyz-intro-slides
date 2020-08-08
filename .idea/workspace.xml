@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa9c28fc-e3b9-4403-aee8-a2d54b8b08fd" name="Default Changelist" comment="" />
+    <list default="true" id="fa9c28fc-e3b9-4403-aee8-a2d54b8b08fd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/slides.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596836539943</updated>
-      <workItem from="1596836541062" duration="10929000" />
+      <workItem from="1596836541062" duration="11857000" />
     </task>
     <servers />
   </component>
@@ -50,9 +57,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="651" y="1348" width="618" height="522" key="find.popup" timestamp="1596887032875">
+    <state x="651" y="1348" width="618" height="580" key="find.popup" timestamp="1596894956596">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
-    <state x="651" y="1348" width="618" height="522" key="find.popup/0.1080.1920.1080/29.0.1920.1080@0.1080.1920.1080" timestamp="1596887032875" />
+    <state x="651" y="1348" width="618" height="580" key="find.popup/0.1080.1920.1080/29.0.1920.1080@0.1080.1920.1080" timestamp="1596894956596" />
   </component>
 </project>
